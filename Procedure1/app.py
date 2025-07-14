@@ -1,3 +1,4 @@
+
 from dotenv import load_dotenv
 import os
 import cv2
@@ -12,10 +13,9 @@ import re
 import tempfile
 
 load_dotenv()  
-
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-
+# --- Load Object Prompts ---
 excel_path = r'C:\Users\koush\Desktop\Assignment\Object list.xlsx'
 df = pd.read_excel(excel_path)
 object_names = df['Objects'].dropna().tolist()
@@ -51,16 +51,21 @@ model.set_classes(prompts)
 video_path = r'C:\Users\koush\Desktop\Assignment\Videos\video.mp4'
 cap = cv2.VideoCapture(video_path)
 
-# --- Output directory ---
+# --- Output directory and video writer ---
 output_frame_dir = "output_frames"
 os.makedirs(output_frame_dir, exist_ok=True)
 detections_log = []
+
+width  = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+fps    = cap.get(cv2.CAP_PROP_FPS)
+fourcc = cv2.VideoWriter_fourcc(*'mp4v')
+video_writer = cv2.VideoWriter("detection_output.mp4", fourcc, fps, (width, height))
 
 def image_to_base64(img_path):
     with open(img_path, "rb") as f:
         return base64.b64encode(f.read()).decode("utf-8")
 
-# --- Extract OCR info from OpenAI GPT Vision ---
 def extract_metadata_openai(image_np):
     try:
         with tempfile.NamedTemporaryFile(suffix=".png", delete=False) as tmp:
@@ -80,11 +85,7 @@ def extract_metadata_openai(image_np):
 
         raw = response.choices[0].message.content.strip()
         print("[GPT OCR]", raw)
-
-        # --- Fix: Remove ```json and triple backticks ---
         clean = re.sub(r"```json|```", "", raw).strip()
-
-        # Convert to dict
         metadata = json.loads(clean)
         return metadata
 
@@ -108,7 +109,6 @@ while True:
     ocr_crop = frame[:int(height * 0.2), :]
 
     metadata = extract_metadata_openai(ocr_crop)
-
     results = model(frame)
     result = results[0]
 
@@ -139,7 +139,10 @@ while True:
             "speed": metadata.get("speed"),
         })
 
+    # Show on screen and write to output video
     cv2.imshow("Detection", original_frame)
+    video_writer.write(original_frame)
+
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
@@ -148,9 +151,12 @@ while True:
 
 # --- Cleanup ---
 cap.release()
+video_writer.release()
 cv2.destroyAllWindows()
 
 with open("detections_with_location1.json", "w") as f:
     json.dump(detections_log, f, indent=4)
 
-print("\n✅ Detection complete. Output saved to: detections_with_location.json")
+print("\n✅ Detection complete. Output saved to:")
+print("- detection_output.mp4")
+print("- detections_with_location.json")
