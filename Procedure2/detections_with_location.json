@@ -1,0 +1,1826 @@
+[
+    {
+        "timestamp": "2025-07-13 19:38:06",
+        "object": "Street-Lights",
+        "confidence": 0.67,
+        "coordinates": [
+            583,
+            249,
+            593,
+            297
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631395,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:06",
+        "object": "Truck",
+        "confidence": 0.65,
+        "coordinates": [
+            488,
+            261,
+            541,
+            321
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631395,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:06",
+        "object": "Motorcycle",
+        "confidence": 0.59,
+        "coordinates": [
+            302,
+            299,
+            321,
+            331
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631395,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:06",
+        "object": "Electricity-Utilities",
+        "confidence": 0.57,
+        "coordinates": [
+            172,
+            254,
+            197,
+            337
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631395,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:12",
+        "object": "Street-Lights",
+        "confidence": 0.63,
+        "coordinates": [
+            583,
+            249,
+            593,
+            297
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631395,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:12",
+        "object": "Motorcycle",
+        "confidence": 0.52,
+        "coordinates": [
+            302,
+            299,
+            321,
+            331
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631395,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:12",
+        "object": "Sign-Boards",
+        "confidence": 0.52,
+        "coordinates": [
+            129,
+            277,
+            150,
+            301
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631395,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:17",
+        "object": "Street-Lights",
+        "confidence": 0.62,
+        "coordinates": [
+            583,
+            248,
+            593,
+            296
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631935,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:17",
+        "object": "Motorcycle",
+        "confidence": 0.53,
+        "coordinates": [
+            302,
+            298,
+            321,
+            331
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631935,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:17",
+        "object": "Sign-Boards",
+        "confidence": 0.52,
+        "coordinates": [
+            129,
+            277,
+            150,
+            301
+        ],
+        "latitude": 19.046154,
+        "longitude": 84.631935,
+        "altitude": 31.41,
+        "gps_time": 85841.5,
+        "survey_start": 4846000,
+        "chainage": 484.8,
+        "direction": "Inc",
+        "speed": 34
+    },
+    {
+        "timestamp": "2025-07-13 19:38:22",
+        "object": "Motorcycle",
+        "confidence": 0.69,
+        "coordinates": [
+            301,
+            298,
+            319,
+            329
+        ],
+        "latitude": 19.046895,
+        "longitude": 84.631851,
+        "altitude": 31.44,
+        "gps_time": 85842.6016,
+        "survey_start": 484000,
+        "chainage": 484.01,
+        "direction": "Inc",
+        "speed": 36
+    },
+    {
+        "timestamp": "2025-07-13 19:38:22",
+        "object": "Electricity-Utilities",
+        "confidence": 0.65,
+        "coordinates": [
+            105,
+            242,
+            125,
+            366
+        ],
+        "latitude": 19.046895,
+        "longitude": 84.631851,
+        "altitude": 31.44,
+        "gps_time": 85842.6016,
+        "survey_start": 484000,
+        "chainage": 484.01,
+        "direction": "Inc",
+        "speed": 36
+    },
+    {
+        "timestamp": "2025-07-13 19:38:22",
+        "object": "Electricity-Utilities",
+        "confidence": 0.52,
+        "coordinates": [
+            553,
+            71,
+            565,
+            282
+        ],
+        "latitude": 19.046895,
+        "longitude": 84.631851,
+        "altitude": 31.44,
+        "gps_time": 85842.6016,
+        "survey_start": 484000,
+        "chainage": 484.01,
+        "direction": "Inc",
+        "speed": 36
+    },
+    {
+        "timestamp": "2025-07-13 19:38:22",
+        "object": "Street-Lights",
+        "confidence": 0.5,
+        "coordinates": [
+            618,
+            226,
+            633,
+            300
+        ],
+        "latitude": 19.046895,
+        "longitude": 84.631851,
+        "altitude": 31.44,
+        "gps_time": 85842.6016,
+        "survey_start": 484000,
+        "chainage": 484.01,
+        "direction": "Inc",
+        "speed": 36
+    },
+    {
+        "timestamp": "2025-07-13 19:38:26",
+        "object": "Sign-Boards",
+        "confidence": 0.51,
+        "coordinates": [
+            656,
+            256,
+            715,
+            305
+        ],
+        "latitude": 19.046021,
+        "longitude": 84.63179,
+        "altitude": 31.47,
+        "gps_time": 85843.6016,
+        "survey_start": 4846000,
+        "chainage": 484.821,
+        "direction": "Inc",
+        "speed": 38
+    },
+    {
+        "timestamp": "2025-07-13 19:38:31",
+        "object": "Motorcycle",
+        "confidence": 0.56,
+        "coordinates": [
+            297,
+            302,
+            313,
+            329
+        ],
+        "latitude": 19.046021,
+        "longitude": 84.63179,
+        "altitude": 31.47,
+        "gps_time": 85843.6016,
+        "survey_start": 484000,
+        "chainage": 484021,
+        "direction": "Inc",
+        "speed": 38
+    },
+    {
+        "timestamp": "2025-07-13 19:38:35",
+        "object": "Truck",
+        "confidence": 1.0,
+        "coordinates": [
+            661,
+            270,
+            868,
+            397
+        ],
+        "latitude": 19.049598,
+        "longitude": 84.631721,
+        "altitude": 31.59,
+        "gps_time": 85844.59,
+        "survey_start": 484000,
+        "chainage": 484031,
+        "direction": "Inc",
+        "speed": 39
+    },
+    {
+        "timestamp": "2025-07-13 19:38:35",
+        "object": "Truck",
+        "confidence": 0.86,
+        "coordinates": [
+            523,
+            292,
+            557,
+            322
+        ],
+        "latitude": 19.049598,
+        "longitude": 84.631721,
+        "altitude": 31.59,
+        "gps_time": 85844.59,
+        "survey_start": 484000,
+        "chainage": 484031,
+        "direction": "Inc",
+        "speed": 39
+    },
+    {
+        "timestamp": "2025-07-13 19:38:35",
+        "object": "Electricity-Utilities",
+        "confidence": 0.82,
+        "coordinates": [
+            683,
+            214,
+            698,
+            295
+        ],
+        "latitude": 19.049598,
+        "longitude": 84.631721,
+        "altitude": 31.59,
+        "gps_time": 85844.59,
+        "survey_start": 484000,
+        "chainage": 484031,
+        "direction": "Inc",
+        "speed": 39
+    },
+    {
+        "timestamp": "2025-07-13 19:38:35",
+        "object": "Motorcycle",
+        "confidence": 0.76,
+        "coordinates": [
+            295,
+            299,
+            310,
+            324
+        ],
+        "latitude": 19.049598,
+        "longitude": 84.631721,
+        "altitude": 31.59,
+        "gps_time": 85844.59,
+        "survey_start": 484000,
+        "chainage": 484031,
+        "direction": "Inc",
+        "speed": 39
+    },
+    {
+        "timestamp": "2025-07-13 19:38:35",
+        "object": "Street-Lights",
+        "confidence": 0.64,
+        "coordinates": [
+            683,
+            214,
+            698,
+            295
+        ],
+        "latitude": 19.049598,
+        "longitude": 84.631721,
+        "altitude": 31.59,
+        "gps_time": 85844.59,
+        "survey_start": 484000,
+        "chainage": 484031,
+        "direction": "Inc",
+        "speed": 39
+    },
+    {
+        "timestamp": "2025-07-13 19:38:35",
+        "object": "Street-Lights",
+        "confidence": 0.52,
+        "coordinates": [
+            508,
+            252,
+            519,
+            301
+        ],
+        "latitude": 19.049598,
+        "longitude": 84.631721,
+        "altitude": 31.59,
+        "gps_time": 85844.59,
+        "survey_start": 484000,
+        "chainage": 484031,
+        "direction": "Inc",
+        "speed": 39
+    },
+    {
+        "timestamp": "2025-07-13 19:38:39",
+        "object": "Motorcycle",
+        "confidence": 0.76,
+        "coordinates": [
+            294,
+            293,
+            309,
+            321
+        ],
+        "latitude": 19.04587,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 85845.58,
+        "survey_start": 4846000,
+        "chainage": 484.042,
+        "direction": "LHC",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:39",
+        "object": "Electricity-Utilities",
+        "confidence": 0.73,
+        "coordinates": [
+            526,
+            246,
+            536,
+            303
+        ],
+        "latitude": 19.04587,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 85845.58,
+        "survey_start": 4846000,
+        "chainage": 484.042,
+        "direction": "LHC",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:39",
+        "object": "Street-Lights",
+        "confidence": 0.66,
+        "coordinates": [
+            743,
+            202,
+            759,
+            302
+        ],
+        "latitude": 19.04587,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 85845.58,
+        "survey_start": 4846000,
+        "chainage": 484.042,
+        "direction": "LHC",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:42",
+        "object": "Motorcycle",
+        "confidence": 0.77,
+        "coordinates": [
+            294,
+            293,
+            309,
+            321
+        ],
+        "latitude": 19.045887,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 85845.59,
+        "survey_start": 484000,
+        "chainage": 484.042,
+        "direction": "Inc",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:42",
+        "object": "Street-Lights",
+        "confidence": 0.71,
+        "coordinates": [
+            743,
+            202,
+            759,
+            302
+        ],
+        "latitude": 19.045887,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 85845.59,
+        "survey_start": 484000,
+        "chainage": 484.042,
+        "direction": "Inc",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:42",
+        "object": "Electricity-Utilities",
+        "confidence": 0.7,
+        "coordinates": [
+            526,
+            246,
+            536,
+            303
+        ],
+        "latitude": 19.045887,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 85845.59,
+        "survey_start": 484000,
+        "chainage": 484.042,
+        "direction": "Inc",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:42",
+        "object": "Truck",
+        "confidence": 0.56,
+        "coordinates": [
+            682,
+            299,
+            792,
+            353
+        ],
+        "latitude": 19.045887,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 85845.59,
+        "survey_start": 484000,
+        "chainage": 484.042,
+        "direction": "Inc",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:47",
+        "object": "Motorcycle",
+        "confidence": 0.78,
+        "coordinates": [
+            294,
+            293,
+            309,
+            321
+        ],
+        "latitude": 19.045887,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 858545.5,
+        "survey_start": 484000,
+        "chainage": 484.042,
+        "direction": "Inc",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:47",
+        "object": "Electricity-Utilities",
+        "confidence": 0.71,
+        "coordinates": [
+            526,
+            246,
+            536,
+            303
+        ],
+        "latitude": 19.045887,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 858545.5,
+        "survey_start": 484000,
+        "chainage": 484.042,
+        "direction": "Inc",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:47",
+        "object": "Street-Lights",
+        "confidence": 0.69,
+        "coordinates": [
+            743,
+            202,
+            759,
+            302
+        ],
+        "latitude": 19.045887,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 858545.5,
+        "survey_start": 484000,
+        "chainage": 484.042,
+        "direction": "Inc",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:47",
+        "object": "Truck",
+        "confidence": 0.5,
+        "coordinates": [
+            682,
+            299,
+            791,
+            353
+        ],
+        "latitude": 19.045887,
+        "longitude": 84.631638,
+        "altitude": 31.53,
+        "gps_time": 858545.5,
+        "survey_start": 484000,
+        "chainage": 484.042,
+        "direction": "Inc",
+        "speed": 41
+    },
+    {
+        "timestamp": "2025-07-13 19:38:52",
+        "object": "Electricity-Utilities",
+        "confidence": 0.8,
+        "coordinates": [
+            543,
+            248,
+            555,
+            314
+        ],
+        "latitude": 19.0945818,
+        "longitude": 84.631577,
+        "altitude": 31.53,
+        "gps_time": 85846.3984,
+        "survey_start": 484000,
+        "chainage": 484.052,
+        "direction": "Inc",
+        "speed": 43
+    },
+    {
+        "timestamp": "2025-07-13 19:38:52",
+        "object": "Motorcycle",
+        "confidence": 0.62,
+        "coordinates": [
+            294,
+            299,
+            308,
+            320
+        ],
+        "latitude": 19.0945818,
+        "longitude": 84.631577,
+        "altitude": 31.53,
+        "gps_time": 85846.3984,
+        "survey_start": 484000,
+        "chainage": 484.052,
+        "direction": "Inc",
+        "speed": 43
+    },
+    {
+        "timestamp": "2025-07-13 19:38:52",
+        "object": "Street-Lights",
+        "confidence": 0.61,
+        "coordinates": [
+            543,
+            247,
+            554,
+            313
+        ],
+        "latitude": 19.0945818,
+        "longitude": 84.631577,
+        "altitude": 31.53,
+        "gps_time": 85846.3984,
+        "survey_start": 484000,
+        "chainage": 484.052,
+        "direction": "Inc",
+        "speed": 43
+    },
+    {
+        "timestamp": "2025-07-13 19:38:52",
+        "object": "Electricity-Utilities",
+        "confidence": 0.52,
+        "coordinates": [
+            816,
+            190,
+            836,
+            321
+        ],
+        "latitude": 19.0945818,
+        "longitude": 84.631577,
+        "altitude": 31.53,
+        "gps_time": 85846.3984,
+        "survey_start": 484000,
+        "chainage": 484.052,
+        "direction": "Inc",
+        "speed": 43
+    },
+    {
+        "timestamp": "2025-07-13 19:38:58",
+        "object": "Electricity-Utilities",
+        "confidence": 0.8,
+        "coordinates": [
+            543,
+            249,
+            555,
+            316
+        ],
+        "latitude": 19.094598,
+        "longitude": 84.631577,
+        "altitude": 31.53,
+        "gps_time": 85846.3984,
+        "survey_start": 484000,
+        "chainage": 484.052,
+        "direction": "Inc",
+        "speed": 43
+    },
+    {
+        "timestamp": "2025-07-13 19:38:58",
+        "object": "Street-Lights",
+        "confidence": 0.63,
+        "coordinates": [
+            543,
+            247,
+            554,
+            314
+        ],
+        "latitude": 19.094598,
+        "longitude": 84.631577,
+        "altitude": 31.53,
+        "gps_time": 85846.3984,
+        "survey_start": 484000,
+        "chainage": 484.052,
+        "direction": "Inc",
+        "speed": 43
+    },
+    {
+        "timestamp": "2025-07-13 19:38:58",
+        "object": "Motorcycle",
+        "confidence": 0.62,
+        "coordinates": [
+            294,
+            299,
+            308,
+            320
+        ],
+        "latitude": 19.094598,
+        "longitude": 84.631577,
+        "altitude": 31.53,
+        "gps_time": 85846.3984,
+        "survey_start": 484000,
+        "chainage": 484.052,
+        "direction": "Inc",
+        "speed": 43
+    },
+    {
+        "timestamp": "2025-07-13 19:39:01",
+        "object": "Motorcycle",
+        "confidence": 0.75,
+        "coordinates": [
+            297,
+            295,
+            311,
+            319
+        ],
+        "latitude": 19.045757,
+        "longitude": 84.631608,
+        "altitude": 31.55,
+        "gps_time": 858472031,
+        "survey_start": 484000,
+        "chainage": 484.063,
+        "direction": "Inc",
+        "speed": 44
+    },
+    {
+        "timestamp": "2025-07-13 19:39:01",
+        "object": "Street-Lights",
+        "confidence": 0.71,
+        "coordinates": [
+            567,
+            244,
+            581,
+            315
+        ],
+        "latitude": 19.045757,
+        "longitude": 84.631608,
+        "altitude": 31.55,
+        "gps_time": 858472031,
+        "survey_start": 484000,
+        "chainage": 484.063,
+        "direction": "Inc",
+        "speed": 44
+    },
+    {
+        "timestamp": "2025-07-13 19:39:01",
+        "object": "Electricity-Utilities",
+        "confidence": 0.7,
+        "coordinates": [
+            567,
+            244,
+            580,
+            314
+        ],
+        "latitude": 19.045757,
+        "longitude": 84.631608,
+        "altitude": 31.55,
+        "gps_time": 858472031,
+        "survey_start": 484000,
+        "chainage": 484.063,
+        "direction": "Inc",
+        "speed": 44
+    },
+    {
+        "timestamp": "2025-07-13 19:39:07",
+        "object": "Electricity-Utilities",
+        "confidence": 0.76,
+        "coordinates": [
+            595,
+            239,
+            609,
+            320
+        ],
+        "latitude": 19.0645685,
+        "longitude": 84.631432,
+        "altitude": 31.57,
+        "gps_time": 85848.1016,
+        "survey_start": 484000,
+        "chainage": 484.873,
+        "direction": "Inc.",
+        "speed": 45
+    },
+    {
+        "timestamp": "2025-07-13 19:39:07",
+        "object": "Motorcycle",
+        "confidence": 0.62,
+        "coordinates": [
+            302,
+            293,
+            315,
+            317
+        ],
+        "latitude": 19.0645685,
+        "longitude": 84.631432,
+        "altitude": 31.57,
+        "gps_time": 85848.1016,
+        "survey_start": 484000,
+        "chainage": 484.873,
+        "direction": "Inc.",
+        "speed": 45
+    },
+    {
+        "timestamp": "2025-07-13 19:39:18",
+        "object": "Electricity-Utilities",
+        "confidence": 0.74,
+        "coordinates": [
+            595,
+            240,
+            609,
+            322
+        ],
+        "latitude": 19.0645685,
+        "longitude": 84.631432,
+        "altitude": 31.57,
+        "gps_time": 85848.1016,
+        "survey_start": 484000,
+        "chainage": 484.873,
+        "direction": "Inc",
+        "speed": 45
+    },
+    {
+        "timestamp": "2025-07-13 19:39:18",
+        "object": "Motorcycle",
+        "confidence": 0.61,
+        "coordinates": [
+            302,
+            293,
+            315,
+            316
+        ],
+        "latitude": 19.0645685,
+        "longitude": 84.631432,
+        "altitude": 31.57,
+        "gps_time": 85848.1016,
+        "survey_start": 484000,
+        "chainage": 484.873,
+        "direction": "Inc",
+        "speed": 45
+    },
+    {
+        "timestamp": "2025-07-13 19:39:23",
+        "object": "Electricity-Utilities",
+        "confidence": 0.77,
+        "coordinates": [
+            628,
+            234,
+            644,
+            324
+        ],
+        "latitude": 19.09452,
+        "longitude": 84.631363,
+        "altitude": 31.59,
+        "gps_time": 85848.8984,
+        "survey_start": 484000,
+        "chainage": 484.083,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:23",
+        "object": "Motorcycle",
+        "confidence": 0.68,
+        "coordinates": [
+            303,
+            292,
+            316,
+            316
+        ],
+        "latitude": 19.09452,
+        "longitude": 84.631363,
+        "altitude": 31.59,
+        "gps_time": 85848.8984,
+        "survey_start": 484000,
+        "chainage": 484.083,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:28",
+        "object": "Motorcycle",
+        "confidence": 0.78,
+        "coordinates": [
+            297,
+            293,
+            310,
+            316
+        ],
+        "latitude": 19.045555,
+        "longitude": 84.631302,
+        "altitude": 31.6,
+        "gps_time": 85849.7031,
+        "survey_start": 484000,
+        "chainage": 484.894,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:28",
+        "object": "Electricity-Utilities",
+        "confidence": 0.78,
+        "coordinates": [
+            659,
+            231,
+            677,
+            327
+        ],
+        "latitude": 19.045555,
+        "longitude": 84.631302,
+        "altitude": 31.6,
+        "gps_time": 85849.7031,
+        "survey_start": 484000,
+        "chainage": 484.894,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:28",
+        "object": "Electricity-Utilities",
+        "confidence": 0.56,
+        "coordinates": [
+            488,
+            230,
+            509,
+            305
+        ],
+        "latitude": 19.045555,
+        "longitude": 84.631302,
+        "altitude": 31.6,
+        "gps_time": 85849.7031,
+        "survey_start": 484000,
+        "chainage": 484.894,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:28",
+        "object": "Street-Lights",
+        "confidence": 0.52,
+        "coordinates": [
+            488,
+            231,
+            510,
+            306
+        ],
+        "latitude": 19.045555,
+        "longitude": 84.631302,
+        "altitude": 31.6,
+        "gps_time": 85849.7031,
+        "survey_start": 484000,
+        "chainage": 484.894,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:32",
+        "object": "Motorcycle",
+        "confidence": 0.79,
+        "coordinates": [
+            297,
+            293,
+            311,
+            316
+        ],
+        "latitude": 19.045555,
+        "longitude": 84.631302,
+        "altitude": 31.6,
+        "gps_time": 85849.7031,
+        "survey_start": 484000,
+        "chainage": 484.894,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:32",
+        "object": "Electricity-Utilities",
+        "confidence": 0.79,
+        "coordinates": [
+            659,
+            231,
+            677,
+            327
+        ],
+        "latitude": 19.045555,
+        "longitude": 84.631302,
+        "altitude": 31.6,
+        "gps_time": 85849.7031,
+        "survey_start": 484000,
+        "chainage": 484.894,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:32",
+        "object": "Street-Lights",
+        "confidence": 0.59,
+        "coordinates": [
+            488,
+            231,
+            510,
+            306
+        ],
+        "latitude": 19.045555,
+        "longitude": 84.631302,
+        "altitude": 31.6,
+        "gps_time": 85849.7031,
+        "survey_start": 484000,
+        "chainage": 484.894,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:32",
+        "object": "Electricity-Utilities",
+        "confidence": 0.58,
+        "coordinates": [
+            488,
+            230,
+            509,
+            306
+        ],
+        "latitude": 19.045555,
+        "longitude": 84.631302,
+        "altitude": 31.6,
+        "gps_time": 85849.7031,
+        "survey_start": 484000,
+        "chainage": 484.894,
+        "direction": "Inc",
+        "speed": 46
+    },
+    {
+        "timestamp": "2025-07-13 19:39:36",
+        "object": "Electricity-Utilities",
+        "confidence": 0.76,
+        "coordinates": [
+            703,
+            223,
+            721,
+            328
+        ],
+        "latitude": 19.046488,
+        "longitude": 84.631233,
+        "altitude": 31.66,
+        "gps_time": 85850.58,
+        "survey_start": 484000,
+        "chainage": 484104,
+        "direction": "Inc",
+        "speed": 47
+    },
+    {
+        "timestamp": "2025-07-13 19:39:36",
+        "object": "Motorcycle",
+        "confidence": 0.74,
+        "coordinates": [
+            296,
+            292,
+            310,
+            315
+        ],
+        "latitude": 19.046488,
+        "longitude": 84.631233,
+        "altitude": 31.66,
+        "gps_time": 85850.58,
+        "survey_start": 484000,
+        "chainage": 484104,
+        "direction": "Inc",
+        "speed": 47
+    },
+    {
+        "timestamp": "2025-07-13 19:39:41",
+        "object": "Motorcycle",
+        "confidence": 0.73,
+        "coordinates": [
+            296,
+            292,
+            309,
+            314
+        ],
+        "latitude": 19.045448,
+        "longitude": 84.631149,
+        "altitude": 31.69,
+        "gps_time": 85851.2969,
+        "survey_start": 484000,
+        "chainage": 484115,
+        "direction": "Inc",
+        "speed": 48
+    },
+    {
+        "timestamp": "2025-07-13 19:39:41",
+        "object": "Electricity-Utilities",
+        "confidence": 0.64,
+        "coordinates": [
+            764,
+            216,
+            785,
+            349
+        ],
+        "latitude": 19.045448,
+        "longitude": 84.631149,
+        "altitude": 31.69,
+        "gps_time": 85851.2969,
+        "survey_start": 484000,
+        "chainage": 484115,
+        "direction": "Inc",
+        "speed": 48
+    },
+    {
+        "timestamp": "2025-07-13 19:39:41",
+        "object": "Truck",
+        "confidence": 0.57,
+        "coordinates": [
+            333,
+            268,
+            351,
+            289
+        ],
+        "latitude": 19.045448,
+        "longitude": 84.631149,
+        "altitude": 31.69,
+        "gps_time": 85851.2969,
+        "survey_start": 484000,
+        "chainage": 484115,
+        "direction": "Inc",
+        "speed": 48
+    },
+    {
+        "timestamp": "2025-07-13 19:39:50",
+        "object": "Motorcycle",
+        "confidence": 0.71,
+        "coordinates": [
+            296,
+            292,
+            309,
+            314
+        ],
+        "latitude": 19.094548,
+        "longitude": 84.631149,
+        "altitude": 31.69,
+        "gps_time": 85851.2969,
+        "survey_start": 484000,
+        "chainage": 484115,
+        "direction": "Inc",
+        "speed": 48
+    },
+    {
+        "timestamp": "2025-07-13 19:39:50",
+        "object": "Electricity-Utilities",
+        "confidence": 0.64,
+        "coordinates": [
+            763,
+            216,
+            785,
+            343
+        ],
+        "latitude": 19.094548,
+        "longitude": 84.631149,
+        "altitude": 31.69,
+        "gps_time": 85851.2969,
+        "survey_start": 484000,
+        "chainage": 484115,
+        "direction": "Inc",
+        "speed": 48
+    },
+    {
+        "timestamp": "2025-07-13 19:39:50",
+        "object": "Truck",
+        "confidence": 0.52,
+        "coordinates": [
+            333,
+            268,
+            350,
+            289
+        ],
+        "latitude": 19.094548,
+        "longitude": 84.631149,
+        "altitude": 31.69,
+        "gps_time": 85851.2969,
+        "survey_start": 484000,
+        "chainage": 484115,
+        "direction": "Inc",
+        "speed": 48
+    },
+    {
+        "timestamp": "2025-07-13 19:39:55",
+        "object": "Motorcycle",
+        "confidence": 0.7,
+        "coordinates": [
+            295,
+            294,
+            308,
+            317
+        ],
+        "latitude": 19.045349,
+        "longitude": 84.631088,
+        "altitude": 31.75,
+        "gps_time": 85852.2016,
+        "survey_start": 484000,
+        "chainage": 484125,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:39:59",
+        "object": "Truck",
+        "confidence": 0.67,
+        "coordinates": [
+            332,
+            265,
+            351,
+            288
+        ],
+        "latitude": 19.045288,
+        "longitude": 84.631028,
+        "altitude": 31.79,
+        "gps_time": 85852.7969,
+        "survey_start": 484000,
+        "chainage": 484136,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:39:59",
+        "object": "ServiceRoad",
+        "confidence": 0.56,
+        "coordinates": [
+            93,
+            280,
+            864,
+            512
+        ],
+        "latitude": 19.045288,
+        "longitude": 84.631028,
+        "altitude": 31.79,
+        "gps_time": 85852.7969,
+        "survey_start": 484000,
+        "chainage": 484136,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:39:59",
+        "object": "Motorcycle",
+        "confidence": 0.51,
+        "coordinates": [
+            291,
+            289,
+            305,
+            311
+        ],
+        "latitude": 19.045288,
+        "longitude": 84.631028,
+        "altitude": 31.79,
+        "gps_time": 85852.7969,
+        "survey_start": 484000,
+        "chainage": 484136,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:02",
+        "object": "Truck",
+        "confidence": 0.76,
+        "coordinates": [
+            332,
+            265,
+            351,
+            288
+        ],
+        "latitude": 19.045288,
+        "longitude": 84.63102,
+        "altitude": 31.79,
+        "gps_time": 85852.7969,
+        "survey_start": 484000,
+        "chainage": 484136,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:02",
+        "object": "ServiceRoad",
+        "confidence": 0.56,
+        "coordinates": [
+            94,
+            280,
+            864,
+            512
+        ],
+        "latitude": 19.045288,
+        "longitude": 84.63102,
+        "altitude": 31.79,
+        "gps_time": 85852.7969,
+        "survey_start": 484000,
+        "chainage": 484136,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:02",
+        "object": "Motorcycle",
+        "confidence": 0.54,
+        "coordinates": [
+            291,
+            289,
+            305,
+            311
+        ],
+        "latitude": 19.045288,
+        "longitude": 84.63102,
+        "altitude": 31.79,
+        "gps_time": 85852.7969,
+        "survey_start": 484000,
+        "chainage": 484136,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:05",
+        "object": "Electricity-Utilities",
+        "confidence": 0.57,
+        "coordinates": [
+            585,
+            244,
+            598,
+            321
+        ],
+        "latitude": 19.042519,
+        "longitude": 84.630959,
+        "altitude": 31.87,
+        "gps_time": 85853.6016,
+        "survey_start": 484000,
+        "chainage": 484146,
+        "direction": "Inc",
+        "speed": 50
+    },
+    {
+        "timestamp": "2025-07-13 19:40:05",
+        "object": "Truck",
+        "confidence": 0.57,
+        "coordinates": [
+            329,
+            270,
+            348,
+            294
+        ],
+        "latitude": 19.042519,
+        "longitude": 84.630959,
+        "altitude": 31.87,
+        "gps_time": 85853.6016,
+        "survey_start": 484000,
+        "chainage": 484146,
+        "direction": "Inc",
+        "speed": 50
+    },
+    {
+        "timestamp": "2025-07-13 19:40:05",
+        "object": "Motorcycle",
+        "confidence": 0.56,
+        "coordinates": [
+            289,
+            294,
+            303,
+            317
+        ],
+        "latitude": 19.042519,
+        "longitude": 84.630959,
+        "altitude": 31.87,
+        "gps_time": 85853.6016,
+        "survey_start": 484000,
+        "chainage": 484146,
+        "direction": "Inc",
+        "speed": 50
+    },
+    {
+        "timestamp": "2025-07-13 19:40:08",
+        "object": "Truck",
+        "confidence": 0.65,
+        "coordinates": [
+            331,
+            269,
+            352,
+            293
+        ],
+        "latitude": "19.045156",
+        "longitude": "84.630890",
+        "altitude": "31.99",
+        "gps_time": "85854.2969",
+        "survey_start": "484000",
+        "chainage": "484156",
+        "direction": "Inc",
+        "speed": "51"
+    },
+    {
+        "timestamp": "2025-07-13 19:40:08",
+        "object": "Motorcycle",
+        "confidence": 0.59,
+        "coordinates": [
+            289,
+            293,
+            303,
+            315
+        ],
+        "latitude": "19.045156",
+        "longitude": "84.630890",
+        "altitude": "31.99",
+        "gps_time": "85854.2969",
+        "survey_start": "484000",
+        "chainage": "484156",
+        "direction": "Inc",
+        "speed": "51"
+    },
+    {
+        "timestamp": "2025-07-13 19:40:08",
+        "object": "Bus",
+        "confidence": 0.54,
+        "coordinates": [
+            331,
+            269,
+            352,
+            293
+        ],
+        "latitude": "19.045156",
+        "longitude": "84.630890",
+        "altitude": "31.99",
+        "gps_time": "85854.2969",
+        "survey_start": "484000",
+        "chainage": "484156",
+        "direction": "Inc",
+        "speed": "51"
+    },
+    {
+        "timestamp": "2025-07-13 19:40:08",
+        "object": "ServiceRoad",
+        "confidence": 0.5,
+        "coordinates": [
+            91,
+            286,
+            863,
+            512
+        ],
+        "latitude": "19.045156",
+        "longitude": "84.630890",
+        "altitude": "31.99",
+        "gps_time": "85854.2969",
+        "survey_start": "484000",
+        "chainage": "484156",
+        "direction": "Inc",
+        "speed": "51"
+    },
+    {
+        "timestamp": "2025-07-13 19:40:13",
+        "object": "Truck",
+        "confidence": 0.65,
+        "coordinates": [
+            331,
+            269,
+            352,
+            293
+        ],
+        "latitude": 19.045156,
+        "longitude": 84.63089,
+        "altitude": 31.99,
+        "gps_time": 85854.2969,
+        "survey_start": 484000,
+        "chainage": 484156,
+        "direction": "Inc",
+        "speed": 51
+    },
+    {
+        "timestamp": "2025-07-13 19:40:13",
+        "object": "Motorcycle",
+        "confidence": 0.59,
+        "coordinates": [
+            289,
+            293,
+            303,
+            315
+        ],
+        "latitude": 19.045156,
+        "longitude": 84.63089,
+        "altitude": 31.99,
+        "gps_time": 85854.2969,
+        "survey_start": 484000,
+        "chainage": 484156,
+        "direction": "Inc",
+        "speed": 51
+    },
+    {
+        "timestamp": "2025-07-13 19:40:13",
+        "object": "Bus",
+        "confidence": 0.54,
+        "coordinates": [
+            331,
+            270,
+            352,
+            294
+        ],
+        "latitude": 19.045156,
+        "longitude": 84.63089,
+        "altitude": 31.99,
+        "gps_time": 85854.2969,
+        "survey_start": 484000,
+        "chainage": 484156,
+        "direction": "Inc",
+        "speed": 51
+    },
+    {
+        "timestamp": "2025-07-13 19:40:13",
+        "object": "ServiceRoad",
+        "confidence": 0.51,
+        "coordinates": [
+            91,
+            286,
+            862,
+            512
+        ],
+        "latitude": 19.045156,
+        "longitude": 84.63089,
+        "altitude": 31.99,
+        "gps_time": 85854.2969,
+        "survey_start": 484000,
+        "chainage": 484156,
+        "direction": "Inc",
+        "speed": 51
+    },
+    {
+        "timestamp": "2025-07-13 19:40:18",
+        "object": "Truck",
+        "confidence": 0.57,
+        "coordinates": [
+            336,
+            268,
+            357,
+            293
+        ],
+        "latitude": 19.045984,
+        "longitude": 84.630814,
+        "altitude": 32.1,
+        "gps_time": 85855.1016,
+        "survey_start": 484000,
+        "chainage": 484167,
+        "direction": "Inc",
+        "speed": 50
+    },
+    {
+        "timestamp": "2025-07-13 19:40:18",
+        "object": "Motorcycle",
+        "confidence": 0.51,
+        "coordinates": [
+            293,
+            291,
+            307,
+            314
+        ],
+        "latitude": 19.045984,
+        "longitude": 84.630814,
+        "altitude": 32.1,
+        "gps_time": 85855.1016,
+        "survey_start": 484000,
+        "chainage": 484167,
+        "direction": "Inc",
+        "speed": 50
+    },
+    {
+        "timestamp": "2025-07-13 19:40:22",
+        "object": "Truck",
+        "confidence": 0.72,
+        "coordinates": [
+            337,
+            268,
+            359,
+            294
+        ],
+        "latitude": 19.046013,
+        "longitude": 84.63073,
+        "altitude": 32.21,
+        "gps_time": 85555.8984,
+        "survey_start": 484000,
+        "chainage": 484177,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:22",
+        "object": "Electricity-Utilities",
+        "confidence": 0.54,
+        "coordinates": [
+            702,
+            232,
+            718,
+            335
+        ],
+        "latitude": 19.046013,
+        "longitude": 84.63073,
+        "altitude": 32.21,
+        "gps_time": 85555.8984,
+        "survey_start": 484000,
+        "chainage": 484177,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:25",
+        "object": "Truck",
+        "confidence": 0.71,
+        "coordinates": [
+            337,
+            268,
+            359,
+            294
+        ],
+        "latitude": 19.045013,
+        "longitude": 84.63073,
+        "altitude": 32.21,
+        "gps_time": 85855.8984,
+        "survey_start": 484000,
+        "chainage": 484177,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:25",
+        "object": "Electricity-Utilities",
+        "confidence": 0.53,
+        "coordinates": [
+            702,
+            231,
+            718,
+            335
+        ],
+        "latitude": 19.045013,
+        "longitude": 84.63073,
+        "altitude": 32.21,
+        "gps_time": 85855.8984,
+        "survey_start": 484000,
+        "chainage": 484177,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:30",
+        "object": "Truck",
+        "confidence": 0.68,
+        "coordinates": [
+            341,
+            271,
+            364,
+            297
+        ],
+        "latitude": 19.044952,
+        "longitude": 84.630684,
+        "altitude": 32.32,
+        "gps_time": 85856.6016,
+        "survey_start": 484000,
+        "chainage": 484.188,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:30",
+        "object": "Bus",
+        "confidence": 0.64,
+        "coordinates": [
+            341,
+            270,
+            364,
+            297
+        ],
+        "latitude": 19.044952,
+        "longitude": 84.630684,
+        "altitude": 32.32,
+        "gps_time": 85856.6016,
+        "survey_start": 484000,
+        "chainage": 484.188,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:30",
+        "object": "Electricity-Utilities",
+        "confidence": 0.6,
+        "coordinates": [
+            764,
+            228,
+            783,
+            344
+        ],
+        "latitude": 19.044952,
+        "longitude": 84.630684,
+        "altitude": 32.32,
+        "gps_time": 85856.6016,
+        "survey_start": 484000,
+        "chainage": 484.188,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:30",
+        "object": "Motorcycle",
+        "confidence": 0.51,
+        "coordinates": [
+            297,
+            292,
+            312,
+            315
+        ],
+        "latitude": 19.044952,
+        "longitude": 84.630684,
+        "altitude": 32.32,
+        "gps_time": 85856.6016,
+        "survey_start": 484000,
+        "chainage": 484.188,
+        "direction": "Inc",
+        "speed": 49
+    },
+    {
+        "timestamp": "2025-07-13 19:40:33",
+        "object": "Truck",
+        "confidence": 0.83,
+        "coordinates": [
+            340,
+            272,
+            363,
+            299
+        ],
+        "latitude": 19.044082,
+        "longitude": 84.63066,
+        "altitude": 32.47,
+        "gps_time": 85857.3984,
+        "survey_start": 484000,
+        "chainage": 484198,
+        "direction": "Inc",
+        "speed": 50
+    },
+    {
+        "timestamp": "2025-07-13 19:40:33",
+        "object": "Truck",
+        "confidence": 0.61,
+        "coordinates": [
+            443,
+            282,
+            472,
+            300
+        ],
+        "latitude": 19.044082,
+        "longitude": 84.63066,
+        "altitude": 32.47,
+        "gps_time": 85857.3984,
+        "survey_start": 484000,
+        "chainage": 484198,
+        "direction": "Inc",
+        "speed": 50
+    },
+    {
+        "timestamp": "2025-07-13 19:40:33",
+        "object": "Electricity-Utilities",
+        "confidence": 0.51,
+        "coordinates": [
+            845,
+            216,
+            866,
+            349
+        ],
+        "latitude": 19.044082,
+        "longitude": 84.63066,
+        "altitude": 32.47,
+        "gps_time": 85857.3984,
+        "survey_start": 484000,
+        "chainage": 484198,
+        "direction": "Inc",
+        "speed": 50
+    }
+]

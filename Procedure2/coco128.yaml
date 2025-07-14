@@ -1,0 +1,30 @@
+path: "/content/dataset/assignment_dataset"  # Dataset root directory
+train: "/content/dataset/assignment_dataset/valid/images"  # Path to train images
+val: "/content/dataset/assignment_dataset/train/images"    # Path to val images
+
+# Classes
+nc: 23  # number of classes
+names:
+  - object
+  - bridge
+  - turn right ahead
+  - left_turn
+  - opening
+  - auto
+  - car
+  - bus
+  - motorcycle
+  - trunk
+  - street-lamp
+  - green
+  - red
+  - yellow
+  - no_uturn
+  - uturn
+  - zebra_crossing
+  - Dense-Residential
+  - Rest_Area
+  - fuel_station
+  - Insulator
+  - Defective
+  - km
